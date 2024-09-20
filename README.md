@@ -1,2 +1,2 @@
-Coral Reef Health Classification with Baseline Model and Transfer Learning
+**Coral Reef Health Classification with Baseline Model and Transfer Learning** 
 This project implements a Convolutional Neural Network (CNN) to classify coral reef images into two categories: healthy and bleached. Initially, a baseline model is developed, trained from scratch. Later, transfer learning is applied to fine-tune a pre-trained model on an extended dataset, improving performance and generalization.
